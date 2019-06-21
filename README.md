@@ -11,6 +11,10 @@
 Первоначальный масштаб карты можно изменить здесь:
 https://github.com/nextgis/ngf_xyz_offline_demo/blob/master/main.js#L8
 
+## Онлайн демо
+
+http://nextgis.ru/demo/ngf_xyz_offline_demo/
+
 ## Пример результата
 
 ![](http://m-d.me/img/ss/20190621_161046.png)
