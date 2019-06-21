@@ -1,4 +1,4 @@
-# NextGis Frontend offline demo
+# NextGIS Frontend offline demo
 
 ## Отображение подложки
 Для того чтобы тайлы подложки отобразились в проекте, их нужно положить в папку "tiles" — https://github.com/nextgis/ngf_xyz_offline_demo/tree/master/tiles
