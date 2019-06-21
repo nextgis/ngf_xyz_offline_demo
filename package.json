@@ -1,0 +1,16 @@
+{
+  "name": "ngf_xyz_offline_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NextGIS",
+  "license": "LGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nextgis/ngf_xyz_offline_demo.git"
+  }
+}
