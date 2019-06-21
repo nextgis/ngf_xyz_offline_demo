@@ -1,3 +1,3 @@
 # NextGis Frontend offline demo
 
-Example to work with a map without an internet connection.
+Demo frontend for showing XYZ tiles (no server)
